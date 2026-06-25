@@ -67,7 +67,3 @@ Hi! **I'm Juan Daniel Pulido Vargas**, a **SENA apprentice** in the **ADSO** pro
 
 ---
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SteveCortesDev&icon=0&color=0" />
-</p>
